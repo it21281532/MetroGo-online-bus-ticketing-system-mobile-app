@@ -19,7 +19,7 @@ app.listen(port, () => {
 
 mongoose
   .connect(
-    "mongodb+srv://sahannimantha:sahan1234@cluster0.zyyidga.mongodb.net/",
+    //  "mongodburl",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
